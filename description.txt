@@ -1,0 +1,1 @@
+Polygraph is a formspec-based charting API for Minetest, providing a rich set of output parameters and custom rendering hooks within an object-oriented framework.
